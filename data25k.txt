@@ -6208,7 +6208,7 @@ anh chưa bao giờ nói với tôi
 đã có dịp nào để nói đâu
 à ừ
 
-ông ấy sẽ không phải là người kéo cầu dao 
+ông sẽ không phải là người kéo cầu dao 
 ông ấy có quyền để hủy án
 
 cha tôi là một người nghiện rượu
@@ -6230,7 +6230,7 @@ tên cậu là gì
 seth
 
 chúng ta chằng biết gì về gã này
-anh ta tìm được vài manh mối có ích cho chúng ta
+anh ta tìm được vài manh mối có ích
 
 anh chỉ cắt điều hòa thôi
 nóng quá đi mất
@@ -6299,18 +6299,18 @@ như tôi đã nói một vụ lộn xộn nhỏ
 vụ lộn xộn nhỏ em trai tôi đang ở 
 
 vụ lộn xộn nhỏ em trai tôi đang ở 
-một số thằng điên đã làm loạn trong khu trại
+một số thằng điên đã làm loạn khu trại
 
-có chúng cậu sẽ quên được cái ghế điện chết tiệt
+có chúng cậu sẽ quên được cái ghế 
 tôi không cần
 
 anh định làm gì
 tôi phải chuồn khỏi đây
 
 tôi phải chuồn khỏi đây
-làm sao anh biết được đường ống đó ở đâu
+làm sao anh biết đường ống đó ở đâu
 
-làm sao anh biết được đường ống đó ở đâu
+làm sao anh biết đường ống đó ở đâu
 sẽ có người chỉ chỗ cho chúng ta
 
 rizzo đây có cần viện binh không over
@@ -6347,13 +6347,13 @@ hắn không thể tận mắt thấy
 sao anh có thể kết luận như vậy
 
 sao anh có thể kết luận như vậy
-vì cuộc điện thoại xuất phát từ washington dc
+vì cuộc điện thoại xuất phát từ đó
 
-nhưng ta nghĩ là tôi và cậu có thể trao đổi
+tôi và cậu có thể trao đổi
 không đổi
 
 con gái tôi đâu
-không có gì phải lo lắng thưa ngài cô ấy ổn
+không có gì phải lo lắng thưa ngài
 
 cậu đang tìm for scofield
 yeah
@@ -6461,9 +6461,9 @@ nào các anh đang làm gì
 thưa ngài đang thương lượng
 
 đội trưởng có tin gì của sara chưa
-thưa ngài chúng tôi vẫn đang cố tìm cô ấy
+thưa ngài chúng tôi vẫn đang tìm cô ấy
 
-thưa ngài chúng tôi vẫn đang cố tìm cô ấy
+thưa ngài chúng tôi vẫn đang tìm cô ấy
 các anh vẫn chưa biết nó ở đâu à
 
 các anh vẫn chưa biết nó ở đâu à
@@ -6491,36 +6491,36 @@ họ đã thấy chúng ta cô phải đi thôi
 không được họ sẽ giết anh mất
 
 không được họ sẽ giết anh mất
-cô cứ đi ra cửa tôi sẽ nằm ngay xuống sàn
+tôi sẽ nằm ngay xuống sàn
 
-cô cứ đi ra cửa tôi sẽ nằm ngay xuống sàn
+tôi sẽ nằm ngay xuống sàn
 đó là những tay bắn tỉa
 
 đó là những tay bắn tỉa
 thế thì cô càng không nên ở lại
 
-okay đây là danh sách những người chết và bị thương
+đây là danh sách người chết và bị thương
 danh sách này đã đầy đủ chưa
 
 danh sách này đã đầy đủ chưa
-yeah
+rồi
 
 công việc đầu tiên của tôi ở đây
-làm gì có công việc đó tù nhân không phải đến đó
+làm gì có công việc đó tù nhân không đến
 
-tôi cho rằng sẽ phải làm chuyện này trong đêm
+tôi cho rằng sẽ phải làm chuyện trong đêm
 đúng rồi
 
-có thể sẽ giúp chúng ta vào được trong căn nhà đó
+có thể sẽ giúp ta vào được căn nhà đó
 không dễ đâu nhóc đó là khu cấm
 
 tôi sẽ phải nói chuyện với bọn lính canh
 mà làm sao để có thể có việc 
 
 mà làm sao để có thể có việc
-có việc thì mới được vào bọn cậu hiểu chứ
+có việc thì được vào bọn cậu hiểu chứ
 
-có việc thì mới được vào bọn cậu hiểu chứ
+có việc thì được vào bọn cậu hiểu chứ
 vậy thì ông cố gắng mà lo chuyện đó
 
 thực ra thì toàn chuyện bóng bầu dục ấy mà
@@ -6536,10 +6536,10 @@ tiếc quá câu chuyện lại vừa kết thúc
 kết thúc rồi
 
 kết thúc rồi
-không phải chuyện gì cũng nói với đồng đội được
+không phải chuyện gì cũng nói với đồng đội
 
-không phải chuyện gì cũng nói với đồng đội được
-tôi vẫn sẽ tham gia dù bọn cậu muốn hay không
+không phải chuyện gì cũng nói với đồng đội
+tôi vẫn sẽ tham gia
 
 ông có biết ai giết anh ấy
 chúng tôi cũng có vài đầu mối
@@ -6548,16 +6548,16 @@ chúng tôi cũng có vài đầu mối
 tôi có chút việc cần nói với anh
 
 tôi có chút việc cần nói với anh
-gã đó lại quấy rầy cô nữa à cô donovan
+gã đó lại quấy rầy cô nữa à cô 
 
-gã đó lại quấy rầy cô nữa à cô donovan
-không lucasz đêm trước là lỗi của tôi một sự hiểu nhầm
+gã đó lại quấy rầy cô nữa à cô 
+đêm trước là lỗi của tôi một sự hiểu nhầm
 
-không lucasz đêm trước là lỗi của tôi một sự hiểu nhầm
+đêm trước là lỗi của tôi một sự hiểu nhầm
 okay nhưng nếu cô cần gì
 
 okay nhưng nếu cô cần gì
-tin tôi đi anh sẽ là người đầu tiên tôi nhờ vả
+tin tôi đi anh sẽ là người đầu tiên
 
 cháy
 cái gì
@@ -6569,12 +6569,12 @@ chúng ta sẽ đốt cháy cái kho đó
 bọn cậu làm cái quái gì ở đây
 
 bọn cậu làm cái quái gì ở đây
-chúng tôi tưởng đây là nhà kho đang định dọn dẹp
+tôi tưởng đây là nhà kho đang định dọn dẹp
 
-chúng tôi tưởng đây là nhà kho đang định dọn dẹp
-lũ ngu này không biết đọc à ở đây là khu vực cấm
+tôi tưởng đây là nhà kho đang định dọn dẹp
+ở đây là khu vực cấm
 
-lũ ngu này không biết đọc à ở đây là khu vực cấm
+ở đây là khu vực cấm
 xin lỗi chúng tôi sẽ không tái phạm nữa
 
 cậu có kế hoạch dự phòng chứ
@@ -6593,9 +6593,9 @@ chưa chắc đâu xem kìa
 tôi không hiểu
 
 tôi không hiểu
-hắn được tin tưởng ít bị giám sát an ninh
+hắn được tin tưởng ít giám sát
 
-hắn được tin tưởng ít bị giám sát an ninh
+hắn được tin tưởng ít giám sát
 sao lại hắn
 
 sao lại hắn
@@ -6644,7 +6644,7 @@ tôi hiểu tôi cũng có mặt ở đó mà
 vậy mà anh vẫn bình tĩnh được sao
 
 vậy mà anh vẫn bình tĩnh được sao
-chúng ta vừa tận mắt chứng kiến một người chết cháy
+ta vừa tận mắt chứng kiến một người chết cháy
 
 chúa ơi
 lucasz lạy chúa
@@ -6662,7 +6662,7 @@ chúng ta đâu có thể làm được gì cho anh ta
 anh ta đã chết ngay khi cửa mở
 
 anh ta đã chết ngay khi cửa mở
-tôi đã cố gắng hết sức để hiểu chuyện này nick
+tôi đã cố gắng hết sức để hiểu chuyện
 
 ông ta không muốn vượt ngục à
 không
@@ -6691,13 +6691,13 @@ không có gì
 cậu tìm thấy nó ở đâu
 ở sân gần nhà thờ
 
-sao tôi lại có cảm giác là sẽ có yêu cầu gì nhỉ
-không có yêu cầu gì chỉ là một sự trợ giúp nhỏ
+cảm giác là sẽ có yêu cầu gì nhỉ
+chỉ là một sự trợ giúp nhỏ
 
 tôi không phải là db cooper
 không sao
 
-tôi cứ nghĩ ít nhất thì cô cũng sẽ xin nghỉ vài ngày
+cô cũng sẽ xin nghỉ vài ngày
 tôi khỏe
 
 tôi khỏe
@@ -6707,10 +6707,10 @@ hôm nay xong rồi đúng không
 michael đừng cư xử thế
 
 michael đừng cư xử thế
-tôi cám ơn anh đã dành thời gian cho chúng tôi
+cám ơn anh đã dành thời gian cho tôi
 
-tôi cám ơn anh đã dành thời gian cho chúng tôi
-tôi mới phải cám ơn cô đã quan tâm đến vụ của tôi chứ
+cám ơn anh đã dành thời gian cho tôi
+tôi mới phải cám ơn cô
 
 bọn cậu muốn gì ở tôi
 sự hợp tác thế thôi
@@ -6737,7 +6737,7 @@ vì anh ta nói dối tôi
 tất cả bọn họ đều nói dối mà
 
 tất cả bọn họ đều nói dối mà
-có lẽ vì ở đây anh ta là người duy nhất
+có lẽ vì ở đây anh là người duy nhất
 
 con trai tôi thì sao
 nó biến mất
@@ -6757,7 +6757,7 @@ không thể tôi
 cậu đâu có điên đúng không
 không trokey tôi không điên
 
-nếu anh chạy ra đó chúng sẽ bắn gục anh
+nếu anh chạy ra đó chúng sẽ bắn anh
 anh không quan tâm
 
 cậu muốn cái chó chết gì
@@ -6775,22 +6775,22 @@ yeah dừng lại một phút dừng lại nào
 tôi tưởng tôi phải có mặt trong nhóm chứ
 tôi không nghĩ thế
 
-đường ống dưới lòng đất nối giữa hai địa điểm
+đường ống dưới lòng đất
 quốc lộ số 66
 
 quốc lộ số 66
-chính là con đường dẫn chúng ta ra khỏi nơi đây
+chính là con đường dẫn chúng ta ra
 
-chính là con đường dẫn chúng ta ra khỏi nơi đây
+chính là con đường dẫn chúng ta ra
 quốc lộ 66 chạy ngay phía dưới căn nhà kia
 
 quốc lộ 66 chạy ngay phía dưới căn nhà kia
-đó là căn nhà duy nhất nằm ngay trên đường ống đó
+đó là căn nhà duy nhất
 
-chúa ơi nó đang bị mất tích hãy làm điều gì đó đi
-anh phải hiểu tôi chỉ là giám đốc một trại giam
+chúa ơi nó đang bị mất tích
+tôi chỉ là giám đốc một trại giam
 
-anh phải hiểu tôi chỉ là giám đốc một trại giam
+tôi chỉ là giám đốc một trại giam
 hãy cho tôi ra ngoài
 
 hãy cho tôi ra ngoài
@@ -6800,9 +6800,9 @@ cái gì
 hãy để tôi đi tìm nó
 
 hãy để tôi đi tìm nó
-tôi không có cách nào đáp ứng yêu cầu đó của anh
+tôi không có cách nào đáp ứng yêu cầu đó
 
-tôi không có cách nào đáp ứng yêu cầu đó của anh
+tôi không có cách nào đáp ứng yêu cầu đó
 không đúng
 
 không đúng
@@ -6818,12 +6818,12 @@ tôi đang đi tìm một chút cà phê
 yeah không có đâu
 
 yeah không có đâu
-nếu cô đang thắc mắc thì chúng đã thuộc về bố tôi
+chúng đã thuộc về bố tôi
 
 chúng đã ở trong đó bao lâu rồi
 không biết nữa chắc khoảng 5 năm
 
-thằng đó không biết gì về màu da của mình thì phải
+thằng đó không biết gì về màu da của mình
 nhưng rõ ràng là nó cũng gan dạ phết
 
 tôi vẫn chưa nhận được khoản của tôi
@@ -7070,7 +7070,7 @@ anh có vẻ không tập trung
 trong đầu tôi nhiều việc quá
 
 trong đầu tôi nhiều việc quá
-có liên quan đến kẻ cắt ngón chân anh không
+có liên quan đến kẻ cắt ngón chân anh
 
 hoa đẹp đấy
 phải
@@ -7154,7 +7154,7 @@ nó không tươi được mãi mà
 tôi không nghĩ nó héo sớm thế
 
 tôi không nghĩ nó héo sớm thế
-tôi không thích những thứ không được bền lâu
+tôi không thích những thứ không được bền
 
 ông thấy thế nào
 khá lắm
@@ -7220,7 +7220,7 @@ giữ cái gì
 bông hoa
 
 bông hoa
-tôi không phải là người hay vứt bỏ mọi thứ
+tôi không phải là người vứt bỏ mọi thứ
 
 thế cô kết thúc ở đâu
 phụ thuộc vào việc tôi khởi đầu ở đâu
@@ -7229,9 +7229,9 @@ tôi đi lấy thuốc tiêm cho anh
 đó không phải điều tôi muốn làm
 
 đó không phải điều tôi muốn làm
-thế cô muốn chúng ta làm gì vẫy cờ trắng sao
+thế cô muốn chúng ta làm gì 
 
-thế cô muốn chúng ta làm gì vẫy cờ trắng sao
+thế cô muốn chúng ta làm gì
 tôi chỉ muốn cứu lincoln thoát án tử hình
 
 em đã tới
@@ -7298,21 +7298,21 @@ chỉ có 5 lít thôi
 anh còn lại được bao nhiêu
 
 anh còn lại được bao nhiêu
-chỉ còn 4l thôi thêm chút nữa là chỉ còn lại 3l
+chỉ còn 4l thôi xém còn lại 3l
 
-chỉ còn 4l thôi thêm chút nữa là chỉ còn lại 3l
-bên cạnh đó hiện đã có đủ người rồi
+chỉ còn 4l thôi xém còn lại 3l
+hiện đã có đủ người rồi
 
-bên cạnh đó hiện đã có đủ người rồi
+hiện đã có đủ người rồi
 rồi tôi hiểu anh
 
-thế nếu ngay bây giờ ông đã biết thì sao
-này tôi đã nói là đừng có lôi kéo tôi vào
+ông đã biết thì sao
+đừng có lôi kéo tôi vào
 
-này tôi đã nói là đừng có lôi kéo tôi vào 
-ông đã bao giờ thấy lính gác đeo đồng hồ mạ vàng
+đừng có lôi kéo tôi vào 
+ông đã thấy lính gác đeo đồng hồ mạ vàng
 
-ông đã bao giờ thấy lính gác đeo đồng hồ mạ vàng
+ông đã thấy lính gác đeo đồng hồ mạ vàng
 trong này có vô số người
 
 trong này có vô số người
@@ -7403,12 +7403,12 @@ khởi động xe đi
 vâng chú ấy sẽ ổn chứ
 
 vâng chú ấy sẽ ổn chứ
-ra xe đi lj rồi ta sẽ tới đc bệnh viện
+ra xe đi rồi ta sẽ tới được bệnh viện
 
-tưởng ông không muốn dính vào chuyện của tôi
-tình hình thay đổi rồi tôi muốn tham gia
+tưởng ông không muốn dính vào chuyện
+tình hình thay đổi tôi muốn tham gia
 
-tình hình thay đổi rồi tôi muốn tham gia
+tình hình thay đổi tôi muốn tham gia
 sao tự dưng lại thay đổi thế
 
 sao tự dưng lại thay đổi thế
@@ -7424,9 +7424,9 @@ bao nhiêu đây
 tôi nghĩ là anh biết mà
 
 nhảy với em nhé
-sao em không ngồi đây nói chuyện 1 lát
+sao em không ngồi đây nói chuyện lát
 
-sao em không ngồi đây nói chuyện 1 lát
+sao em không ngồi đây nói chuyện lát
 anh tên gì
 
 anh tên gì
@@ -7541,9 +7541,9 @@ có chuyện gì thế
 chạm thấy rồi đường ống đây rồi
 
 michael nói cho anh đi
-anh muốn nghe tin tốt hay tin xấu trước
+anh muốn nghe tin tốt hay tin xấu
 
-anh muốn nghe tin tốt hay tin xấu trước
+anh muốn nghe tin tốt hay tin xấu
 tin tốt
 
 tin tốt
@@ -8123,13 +8123,13 @@ người này chết chưa vậy
 thấy người cứng đờ như vậy chắc là chết rồi
 
 ngươi là đồng đảng bọn chúng
-đường đại nhân đường đại nhân nghe tôi nói đã
+đường đại nhân nghe tôi nói đã
 
 ông có dám đảm bảo không
 dạ đúng ạ đảm bảo mà
 
 ngươi có biết ta là ai không
-dạ biết dạ biết là đường tam yêu đường đại nhân ạ
+dạ biết là đường tam yêu đường đại nhân ạ
 
 khi đó các trò có dốc sức để làm không
 có ạ
