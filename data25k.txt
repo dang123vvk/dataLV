@@ -7775,7 +7775,7 @@ sao cơ
 em biết thật khó nghe
 
 em biết thật khó nghe
-từ chối hắn đi bảo là em có con của anh rồi
+bảo là em có con của anh rồi
 
 anh đi đâu thế
 tôi sẽ về sau 10 phút
@@ -7799,24 +7799,24 @@ không có gì
 canh cho tôi 1 lúc được không
 
 canh cho tôi 1 lúc được không
-khi nào ta ra khỏi đây tôi cần biết chính xác
+tôi cần biết chính xác
 
-khi nào ta ra khỏi đây tôi cần biết chính xác
+tôi cần biết chính xác
 sớm nhất có thể
 
 sớm nhất có thể
-sớm nhất có thể đâu phải là thời điểm chính xác
+sớm nhất đâu phải là thời điểm chính xác
 
-sớm nhất có thể đâu phải là thời điểm chính xác
+sớm nhất đâu phải là thời điểm chính xác
 anh có cho abruzzi biết mà
 
 anh có cho abruzzi biết mà
 phải vì ông ta cần biết
 
-chắc cậu biết nghĩa của từ phản bội chứ
-tôi không thích từ đó cả từ ăn cắp nữa
+chắc cậu biết nghĩa từ phản bội chứ
+tôi không thích từ đó cả từ ăn cắp
 
-alo veronica donovan
+alo cưng
 ai đấy
 
 ai đấy
@@ -7838,9 +7838,9 @@ cậu nhắn tin với ai vậy
 không phải việc của cậu
 
 không phải việc của cậu
-cậu cho tên khốn đó số điện thoại phải không
+cậu cho tên đó điện thoại phải không
 
-cậu cho tên khốn đó số điện thoại phải không
+cậu cho tên đó điện thoại phải không
 ôi chúa ơi cậu đang ghen tị kìa
 
 ôi chúa ơi cậu đang ghen tị kìa
@@ -7937,9 +7937,9 @@ cậu lái được không đấy
 được tin tớ đồ ăn làm tớ tỉnh rồi
 
 có phải nó như vậy cả ngày không
-tớ nghĩ là có thể nhận ra nếu lốp xe cậu bị thủng
+có thể nhận ra nếu lốp xe cậu bị thủng
 
-tớ nghĩ là có thể nhận ra nếu lốp xe cậu bị thủng
+có thể nhận ra nếu lốp xe cậu bị thủng
 tại sao chuyện này lại xảy ra với tớ
 
 tại sao chuyện này lại xảy ra với tớ
@@ -7979,18 +7979,18 @@ chàng này có phòng vệ sinh cho cậu sử dụng
 ai
 
 ai
-tên kỳ cục vừa đi ra ở đó mặc đồ như kiểu thợ hồ
+tên vừa đi ra đó mặc đồ  kiểu thợ hồ
 
-tên kỳ cục vừa đi ra ở đó mặc đồ như kiểu thợ hồ
+tên vừa đi ra đó mặc đồ  kiểu thợ hồ
 tara
 
 tara
 tớ đùa mà
 
 tớ đùa mà
-anh có nhà vệ sinh nào tôi có thể sử dụng không
+nhà vệ sinh nào tôi có thể sử dụng không
 
-anh có nhà vệ sinh nào tôi có thể sử dụng không
+nhà vệ sinh nào tôi có thể sử dụng không
 xin lỗi không phải nhà của tôi
 
 tôi không được phép cho bất cứ ai vào
@@ -8039,12 +8039,12 @@ anh chắc không
 không có chuột đâu
 
 không có chuột đâu
-nếu có một con ra từ bồn cầu thì sao
+nếu một con ra từ bồn cầu sao
 
-nếu có một con ra từ bồn cầu thì sao
-tôi sẽ làm thật nhanh nếu tôi là cô
+nếu một con ra từ bồn cầu sao
+tôi làm thật nhanh nếu tôi là cô
 
-tôi sẽ làm thật nhanh nếu tôi là cô
+tôi làm thật nhanh nếu tôi là cô
 kế hoạch tốt
 
 kế hoạch tốt
@@ -8069,7 +8069,7 @@ cảm ơn lần nữa
 đừng bận tâm
 
 cậu có thể giúp tôi được không
-bà là ai làm thế méo nào bà vào được đây
+làm thế méo nào bà vào được đây
 
 tôi sẽ gọi cảnh sát được không
 không
@@ -8120,7 +8120,7 @@ nhanh lên nhanh lên đi
 người này chết chưa vậy
 
 người này chết chưa vậy
-thấy người cứng đờ như vậy chắc là chết rồi
+chắc là chết rồi
 
 ngươi là đồng đảng bọn chúng
 đường đại nhân nghe tôi nói đã
@@ -8129,7 +8129,7 @@ ngươi là đồng đảng bọn chúng
 dạ đúng ạ đảm bảo mà
 
 ngươi có biết ta là ai không
-dạ biết là đường tam yêu đường đại nhân ạ
+dạ là đường tam yêu đường đại nhân ạ
 
 khi đó các trò có dốc sức để làm không
 có ạ
@@ -8140,7 +8140,7 @@ tốt
 nhà trò có tiệm hải vị phải không
 dạ đúng
 
-bào ngư của thuyền tam lợi đã đến chưa vậy
+bào ngư đã đến chưa vậy
 bào ngư đến rồi đi ra đi
 
 lưu dụ đức là gì của ngươi
@@ -8153,16 +8153,16 @@ nó nó là con trai tôi
 nó không ở nhà
 
 ngài tìm nó làm gì
-cách đây 2 ngày phát hiện nhiều tên phản nghịch
+phát hiện ra nhiều tên phản nghịch
 
-cách đây 2 ngày phát hiện nhiều tên phản nghịch
-thiếu gia nhà chúng tôi không làm chuyện vậy đâu
+phát hiện ra nhiều tên phản nghịch
+thiếu gia không làm chuyện vậy đâu
 
-thiếu gia nhà chúng tôi không làm chuyện vậy đâu
+thiếu gia không làm chuyện vậy đâu
 đúng đấy cầu xin quý ngài đây
 
 đúng đấy cầu xin quý ngài đây
-ngươi làm sao biết nó không làm sao biết
+ngươi sao biết nó không làm sao biết
 
 sao nặng quá vậy
 đúng đấy không biết sao nữa
@@ -8171,12 +8171,12 @@ sao nặng quá vậy
 nặng cái gì
 
 nặng cái gì
-nếu về trễ phương trượng phạt các người mới nặng đó
+nếu về trễ phương trượng phạt nặng đó
 
 đó gọi là mắt dẫn thân đi
 dạ
 
-ngươi không giữ tự quy bất kính với phương trượng
+ngươi không giữ quy bất kính phương trượng
 bổn tọa phạt ngươi hạ sơn đi hóa duyên
 
 bổn tọa phạt ngươi hạ sơn đi hóa duyên
@@ -8191,10 +8191,10 @@ phương trượng đệ tử chịu phạt
 phương trượng đệ tử chịu phạt
 sáng sớm ngày mai bắt đầu lên đường
 
-người muốn người muốn siêu độ cho tường thái sao
+người muốn siêu độ cho tường thái sao
 bọn họ đều chết cả rồi
 
-cậu có biết thanh niên nào nhiệt tình hăng hái không
+cậu có biết thanh niên nào nhiệt tình không
 có
 
 cậu có thấy thế không
@@ -8215,7 +8215,7 @@ chưa nhưng tôi sắp xuất bản 1 cuốn sách
 chưa nhưng tôi sắp xuất bản 1 cuốn sách
 tôi rất thích chương trình của cô
 
-tôi còn biết tên của nhiều loai rượu mạnh nổi tiếng
+tôi còn biết tên loại rượu mạnh nổi tiếng
 thật à uống tiếp thử xem
 
 con ăn thêm 1 cái nữa chứ
@@ -8252,10 +8252,10 @@ anh biết võ công à
 tôi từng học ở viện mồ côi thôi
 
 anh tìm tôi có chuyện gì
-tôi muốn anh giúp tôi giải quyết quota của tôi
+tôi muốn anh giúp tôi giải quyết
 
 ngày mai ư
-một giờ trưa mai gặp nhau ở nhà hàng của khách sạn nhé
+một giờ trưa mai gặp nhau ở nhà hàng
 
 ok cảm giác tuyệt không
 tuyệt lắm
@@ -8272,7 +8272,7 @@ không thưa sếp
 tôi ngồi đây được không
 tất nhiên rồi
 
-ta có nên cho kong biết ta dự định rút lui không
+ta nên cho kong biết ta dự định rút lui không
 không
 
 những cái cờ đỏ này là gì vậy
@@ -8303,9 +8303,9 @@ họ đang có âm mưu gì thế
 không rõ đó là gì
 
 anh đang lo cho tôi sao
-không phải lo lắng cho cô mà là tình đồng chí
+mà là tình đồng chí
 
-không phải lo lắng cho cô mà là tình đồng chí
+mà là tình đồng chí
 đồng chí
 
 đồng chí
@@ -8315,15 +8315,15 @@ liệu anh có thể chụp cho đồng chí của mình
 tự nhiên lại nói gì thế
 
 tự nhiên lại nói gì thế
-anh chưa từng đích thân chụp cho tôi tấm nào cả
+anh chưa từng đích thân chụp cho tôi
 
-anh chưa từng đích thân chụp cho tôi tấm nào cả
+anh chưa từng đích thân chụp cho tôi
 tôi muốn chụp một tấm
 
 tôi muốn chụp một tấm
 một hai
 
-chúng ta tới đó đi cũng không xa đây là mấy
+chúng ta tới đi cũng không xa đây là mấy
 được thôi
 
 hai vị tiên sinh cần gì
@@ -8333,12 +8333,12 @@ gần đây có người ngoại quốc nào tới mua thuốc nổ
 chúng tôi ở đây không bán thuốc nổ
 
 chúng tôi ở đây không bán thuốc nổ
-đừng nói dối chúng tôi đến đây bởi chúng tôi biết cả rồi
+đừng nói dối chúng tôi
 
-đừng nói dối chúng tôi đến đây bởi chúng tôi biết cả rồi
-không có chuyện đó đâu hai người đi đi đi đi
+đừng nói dối chúng tôi
+không có chuyện đó đâu hai người đi đi
 
-không có chuyện đó đâu hai người đi đi đi đi
+không có chuyện đó đâu hai người đi đi
 này này này ông chủ ông chủ
 
 mới sáng ra có chuyện gì thế
@@ -8372,39 +8372,39 @@ sao anh lại bị nhốt trong cái xe đó
 anh cũng biết
 
 anh cũng biết
-điều cuối cùng anh nhớ là mình đang ở hibiscus
+điều cuối cùng anh nhớ là mình đang ở
 
 là gì vậy
-làm trại cai nghiện nó cũng giống như bệnh viện vậy
+làm trại cai nghiện
 
-làm trại cai nghiện nó cũng giống như bệnh viện vậy
+làm trại cai nghiện
 anh bị bệnh à
 
-nhưng chúng tôi có tống tiền chính phủ không
+chúng tôi có tống tiền chính phủ không
 không
 
-vậy thì thằng khốn nguy hiểm đó đang ở chỗ nào
+thằng khốn nguy hiểm đó đang ở chỗ nào
 tôi không biết tôi đang bị điều khiển
 
 còn 10 phút trước khi anh biến đổi đúng không
 ừ
 
 đây là nơi mà mọi thứ bị chôn vùi đúng không
-hibiscus
+không thể nào
 
 vậy thì tại sao anh lại muốn ngăn cản tôi
-bởi vì tôi muốn cuộc sống của mình ông không có quyền
+bởi vì tôi muốn cuộc sống của mình tốt
 
 anh là ai vậy
-bob ford
+một người đẹp trai
 
-bob ford
-anh là người anhem của charley à
+một người đẹp trai
+anh là người anh em của tôi à
 
-anh là người anhem của charley à
+anh là người anh em của tôi à
 vâng
 
-ông có nghĩ là cái khoá đó có thể ngăn bọn chúng không
+cái khoá đó có thể ngăn bọn chúng không
 không tôi không nghĩ vậy
 
 cậu sợ bóng tối à
@@ -8441,7 +8441,7 @@ anh bao nhiêu tuổi
 20
 
 anh từng nghĩ đến tự tử không
-không vì tôi luôn luôn có việc muốn làm
+không vì tôi luôn có việc muốn làm
 
 cậu biết hắn ở đâu không
 không
@@ -8539,23 +8539,23 @@ vẫn khỏe vẫn khỏe cảm ơn
 bố có tin nổi không
 ừ có chứ
 
-vậy bà có đưa con mình đi trưng dụng cho quân đội không
+bà có đưa con đi trưng dụng quân đội không
 con tôi bị bệnh lao
 
 con tôi bị bệnh lao
-nếu con tôi không bị bệnh thì tôi cũng đưa nó đi
+nếu không bị bệnh thì tôi cũng đưa nó đi
 
-nếu con tôi không bị bệnh thì tôi cũng đưa nó đi
+nếu không bị bệnh thì tôi cũng đưa nó đi
 phục vụ đất nước rồi sao nhạc u ám thế nhỉ
 
 lee kang uk đâu rồi
 anh ấy đang ở trên sân khấu
 
-đưa anh ta ra đây ngay hoặc là anh ta sẽ bị bỏ tù đấy
+hoặc là anh ta sẽ bị bỏ tù đấy
 sao anh ấy lại bị bỏ tù chứ
 
 sao anh ấy lại bị bỏ tù chứ
-tên điên đó ngoại tình với vợ của một bí thư cao cấp đấy
+tên điên đó ngoại tình
 
 sao cậu lại ở đây vậy cậu mọt sách
 tôi là sinh viên ở đại học seoul
@@ -8563,10 +8563,10 @@ tôi là sinh viên ở đại học seoul
 tôi là sinh viên ở đại học seoul
 chà thế là thông minh lắm đó
 
-thế phần dưới của cô có dơ như miệng cô không
+thế phần dưới của cô có dơ không
 anh đã từng thấy phần dưới của tôi chưa
 
-anh đã từng thấy phần dưới của tôi chưa
+anh đã thấy phần dưới của tôi chưa
 đã thấy chưa hả
 
 làm ơn cho tôi gặp ông shimura
@@ -8575,7 +8575,7 @@ anh muốn gặp shimura sao
 anh muốn gặp shimura sao
 vâng vâng
 
-nghe nói là có gái hàn mới ở phố đèn đỏ muốn cược một vé không
+nghe nói là có gái hàn mới ở phố đèn đỏ
 phố đèn đỏ sao
 
 ở với đội quân oss mỹ có ổn không
@@ -8588,39 +8588,39 @@ nổ rồi
 ra ngoài nhanh lên
 
 ra ngoài nhanh lên
-đừng bỏ ai lại phía sau ra ngoài nhanh lên
+đừng bỏ ai lại phía sau
 
-đừng bỏ ai lại phía sau ra ngoài nhanh lên
+đừng bỏ ai lại phía sau
 cảm ơn rất nhiều
 
 phần giao với mỏ 3 thì sao
 vẫn chưa bị nổ ạ
 
-đây không phải là nơi mà ta đã bị nhốt vì rò ga sao
-im đi các anh nên làm việc theo yêu cầu đi
+nơi mà ta đã bị nhốt vì rò ga sao
+im đi 
 
-im đi các anh nên làm việc theo yêu cầu đi
-không còn kế hoạch nào khác kiếm một ít gỗ và cho nổ nó đi
+im đi
+không còn kế hoạch nào khác 
 
-không còn kế hoạch nào khác kiếm một ít gỗ và cho nổ nó đi
+không còn kế hoạch nào khác
 cậu im miệng đi
 
 yoon hak chul đâu
 ông ấy còn sống ông ấy còn sống
 
-những người lính hàn cứng rắn mà cũng phải đi hối lộ sao
+những người lính phải đi hối lộ sao
 chuyện quái gì vậy hả
 
 chuyện quái gì vậy hả
 tôi muốn nói chuyện với người làm chìa khóa
 
 tôi muốn nói chuyện với người làm chìa khóa
-anh đến đây làm gì cần hộp có khóa nữa sao
+anh đến đây làm gì
 
-anh đến đây làm gì cần hộp có khóa nữa sao
-không phải vậy có một chiếc chìa khóa rất quan trọng
+anh đến đây làm gì
+không phải vậy đâu
 
-không phải vậy có một chiếc chìa khóa rất quan trọng
+có một chiếc chìa khóa rất quan trọng
 tôi xem được không
 
 tôi xem được không
@@ -8639,9 +8639,9 @@ mũi anh thính thật đó
 ông không sao chứ tôi ổn
 
 cái quái gì vậy hả
-tên park đó là người mà chúng ta không biết rõ đúng không
+tên đó là người mà chúng ta không biết rõ
 
-tên park đó là người mà chúng ta không biết rõ đúng không
+tên đó là người mà chúng ta không biết rõ
 đúng vậy
 
 tôi đang ở đâu
@@ -8762,9 +8762,9 @@ là cậu hả còi
 đâu có
 
 sao cậu không đi ngủ đi
-cậu đánh thức tôi với tiếng nói nhảm của cậu
+cậu đánh thức tôi với tiếng nói nhảm
 
-cậu đánh thức tôi với tiếng nói nhảm của cậu
+cậu đánh thức tôi với tiếng nói nhảm
 tôi đang bị đau chữa cho tôi
 
 tôi đang bị đau chữa cho tôi
@@ -8795,9 +8795,9 @@ tôi ngửi thấy mùi ngừ thằng còi
 tôi sẽ tìm ra nó rồi ăn nó
 
 tôi sẽ tìm ra nó rồi ăn nó
-ngươi tìm lộn địa chỉ rồi làm gì có ngừ nào ở đây
+ngươi tìm lộn địa chỉ làm gì có nguời nào ở đây
 
-ngươi tìm lộn địa chỉ rồi làm gì có ngừ nào ở đây
+ngươi tìm lộn địa chỉ làm gì có người nào ở đây
 tôi đang đói
 
 tôi đang đói
@@ -8825,9 +8825,9 @@ thế nên cậu mới biến thái
 bên ngoài thì kinh tởm
 
 bên ngoài thì kinh tởm
-nhưng bên trong thì có mùi gì đó vừa ngon vừa quen
+bên trong có mùi gì vừa ngon vừa quen
 
-nhưng bên trong thì có mùi gì đó vừa ngon vừa quen
+bên trong có mùi gì vừa ngon vừa quen
 nào ăn thử đi cắn một miếng ngon lắm
 
 nào ăn thử đi cắn một miếng ngon lắm
@@ -8852,25 +8852,25 @@ cháu nghĩ ta lừa cháu ư
 đúng thế
 
 sao lại chọn nơi này
-vì ta nghe thấy tiếng trái tim nhỏ nhoi của thằng bé
+vì ta nghe thấy tiếng trái tim nhỏ nhoi
 
 quý cô mong muốn điều gì nào
 làm cho những đứa trẻ được hạnh phúc
 
 cháu có một kế hoạch kế hoạch gì
-chúng ta sẽ tới gặp nữ hoàng ta cần bà ấy giúp đỡ
+chúng ta sẽ tới gặp nữ hoàng
 
-chúng ta sẽ tới gặp nữ hoàng ta cần bà ấy giúp đỡ
+chúng ta sẽ tới gặp nữ hoàng ta
 sự giúp đỡ
 
 sự giúp đỡ
-cảm ơn ông nhưng không phải trong lúc ta đang mặc đồ ngủ
+nhưng không phải lúc ta mặc đồ ngủ
 
 dưa chuật là cái gì
-là một loại dưa bốc mùi kinh tởm mà ông ấy đã phải ăn cả đời
+là một loại dưa bốc mùi kinh tởm
 
-cơn ác mộng mà cháu đã bắt ông sẽ thổi nó vào bọn khổng lồ ư
-đúng ta sẽ cho bọn chúng giấc mơ tuyệt vọng khủng khiếp nhất
+cơn ác mộng mà cháu đã qua
+giấc mơ tuyệt vọng khủng khiếp nhất
 
 nhưng giấc mơ đó nói gì
 nó là câu chuyện về một cô bé
@@ -8881,67 +8881,67 @@ thì cháu đâu còn ở đây
 chúng ta có gì đây
 cậu là đồ ăn thịt người
 
-ngay lúc nhìn thấy quan toà ông ta sẽ kết án cậu
+quan toà ông ta sẽ kết án cậu
 kết án tôi vì tội gì
 
-vậy cái thằng lùn tịt mỏng manh kia là ai thế
-anh ta là nhà thiên văn học frizer
+thằng lùn tịt mỏng manh kia là ai
+anh ta là nhà thiên văn học
 
-anh ta là nhà thiên văn học frizer
+anh ta là nhà thiên văn học
 nhà thiên văn học à tên là russell
 
-từ từ nào anh vừa nói đấy là lần cuối anh gặp puss
+đấy là lần cuối anh gặp puss
 phải
 
-nhưng anh không đến đó và tôi đoán là anton cũng không
+nhưng anh không đến đó
 không tôi đến chỗ kepler
 
-ông biết người phụ nữ này không thưa ông
-ông ấy là sikh và câu ấy có nghĩa là chúa có thật và mãi mãi
+ông biết người phụ nữ này không
+ông ấy là sikh 
 
-ông ấy là sikh và câu ấy có nghĩa là chúa có thật và mãi mãi
+ông ấy là sikh
 ok rất vui vì anh biết như vậy
 
 khi nào cô xong việc
 khoảng 14 phút sau khi tôi bắt đầu
 
 toàn bộ cái này nghĩa là gì
-đây là những vòng xoắn sang trái do các hạt nguyên tử
+đây là những vòng xoắn sang trái
 
 và anh ở đây là vì
-vì anh đang tìm một người được cho là có tồn tại
+vì anh đang tìm một người
 
 thật vậy à
-ừ vậy em nói thử xem dịch vụ bưu chính ở đây làm ăn thế nào
+dịch vụ bưu chính ở đây làm ăn thế nào
 
-ừ vậy em nói thử xem dịch vụ bưu chính ở đây làm ăn thế nào
+dịch vụ bưu chính ở đây làm ăn thế nào
 dịch vụ bưu chính à làm gì có
 
 dịch vụ bưu chính à làm gì có
-người ta sử dụng dịch vụ tư tín ưu tiên hoặc e mail
+người ta sử dụng thư tín ưu tiên hoặc e mail
 
 cậu biết tại sao chứ
-có chứ bởi vì tôi là một thám tử tư và người ta thuê tôi làm
+có chứ bởi vì tôi là một thám tử tư
 
 đây là chỗ nào
 vùng đất giả dối khốn kiếp
 
 ai vậy
-một gã nghĩ rằng cô là người trong mộng của hắn
+cô là người trong mộng của hắn
 
 mấy anh cần gì
-đây có phải là ngân hàng tinh trùng iq cao không
+đây có phải là ngân hàng tinh trùng
 
-đây có phải là ngân hàng tinh trùng iq cao không
-còn phải hỏi có lẽ mấy anh không nên ở đây
+đây có phải là ngân hàng tinh trùng
+có lẽ mấy anh không nên ở đây
 
-còn phải hỏi có lẽ mấy anh không nên ở đây
+có lẽ mấy anh không nên ở đây
 tôi nghĩ là đúng chỗ này rồi
 
 tôi nghĩ là đúng chỗ này rồi
-tôi không nghĩ là tôi có thể làm chuyện này
+tôi có thể làm chuyện này
 
-tôi không nghĩ là tôi có thể làm chuyện này
+tôi có thể làm chuyện này
 cái gì giỡn hả cậu thằng nghiệp dư
 
 cái gì giỡn hả cậu thằng nghiệp dư
@@ -9008,12 +9008,12 @@ chúng ta mời cô ta ăn cơm được không
 không chúng ta sẽ bắt đầu kỳ hai
 
 không chúng ta sẽ bắt đầu kỳ hai 
-klingon boggle
+vậy sao
 
 klingon boggle
-ừ nó giống như những quy tắc của boggle nhưng
+ừ nó giống như những quy tắc nhưng
 
-ừ nó giống như những quy tắc của boggle nhưng
+ừ nó giống như những quy tắc nhưng
 ở klingon
 
 à cô có công việc gì không
